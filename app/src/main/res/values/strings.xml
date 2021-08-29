@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sistema Integrado de Vacinação</string>
+    <string name="label_new_task">Adicionar Registro de Vacina</string>
+    <string name="label_title">Nome da Vacina</string>
+    <string name="label_local">Local de Aplicacao</string>
+    <string name="label_aplicador">Nome do Aplicador</string>
+    <string name="label_crm">CRM/CRE do Aplicador</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_description_new_task">Adicionar novo registro de vacina</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui nenhuma aplicação de vacina cadastrada!</string>
+    <string name="label_caderneta">Sua Caderneta de Vacinação</string>
+    <string name="label_login">SIV</string>
+    <string name="label_usuario">Usuário</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_cadastrar">Novo Cadastro</string>
+    <string name="label_entrar">Avançar</string>
+
+</resources>
